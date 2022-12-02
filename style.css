@@ -1,0 +1,30 @@
+/* img{
+    width: 150px;
+} */
+
+#heading{
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.ImageName{
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}
+
+@media (max-width: 500px){
+  img{
+    width: 80px;
+  }
+
+  .ImageName{
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+
+}
